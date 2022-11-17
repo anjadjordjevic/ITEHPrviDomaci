@@ -90,6 +90,4 @@ searchInput.addEventListener('keyup', () => {
       allProductsDiv.innerHTML = html;
     }
   });
-
-
 });
