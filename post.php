@@ -43,7 +43,7 @@ if (isset($_POST['insert-comment'])) {
 <link rel="icon" href="ikonicaa.png">
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Proizvod</title>
+  <title>O proizvodu</title>
   <link rel="stylesheet" href="post.css">
   <style>
      #home {
